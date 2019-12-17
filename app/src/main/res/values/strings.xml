@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">week9Apps</string>
+    <string name="et_url">Please enter the URL</string>
+    <string name="btn_search">GO!!!</string>
+</resources>
